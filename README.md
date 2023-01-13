@@ -23,7 +23,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![Screenshot_20230103_064756.png)
+![gcd of two number](gcd.png)
 
 
 ## Result:
