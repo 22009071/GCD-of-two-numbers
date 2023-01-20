@@ -18,7 +18,6 @@ To write a program to find the LU Decomposition of a matrix.
 Program to solve a matrix using LU decomposition.
 Developed by:kabilan T
 RegisterNumber: 22009071
-
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
 A= np.array(eval(input()))
@@ -30,7 +29,7 @@ print(x)
  ````
  
 
-## Output:"C:\Users\kabilan\Pictures\Screenshots\Screenshot_20230119_072135.png"
+## Output:
 
 
 
